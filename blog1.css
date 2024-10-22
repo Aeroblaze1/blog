@@ -1,0 +1,24 @@
+body{
+    font-family: "Lexend Exa", sans-serif;
+    font-optical-sizing: auto;
+   background-image: url('images/pexels-hngstrm-1939485.jpg');
+    
+}
+.container{
+    color: black;
+    margin-top: 100px
+    padding-top: 100px;
+    border-radius: 6px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    
+}
+.hey{
+    height: 50px;
+    width: 50px;
+    /* z-index: -1; */
+}
+.inv{
+    margin-bottom: 50px;
+}
